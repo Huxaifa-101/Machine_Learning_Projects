@@ -8,6 +8,14 @@ Welcome to the **Machine Learning Projects** repository! This collection feature
 3. **🎭 IMDB Sentiment Analysis** – Classifying movie reviews as positive or negative.  
 4. **🚢 Titanic Survival Prediction** – Predicting passenger survival based on historical data.  
 
+### 📊 Project Details  
+| Project | Dataset | Algorithm | Accuracy/Score |
+|---------|--------|-----------|---------------|
+| **🏡 Boston Housing** | Boston Housing Dataset | Linear Regression | R² = 0.85 |
+| **🔍 Fraud Detection** | Synthetic Financial Data | Random Forest | 96% Accuracy |
+| **🎭 IMDB Sentiment Analysis** | IMDB Movie Reviews | LSTM (Deep Learning) | 87% Accuracy |
+| **🚢 Titanic Survival** | Titanic Dataset | Logistic Regression | 78% Accuracy |
+
 ## ⚙️ How to Run the Notebooks  
 To execute these projects, follow these steps:  
 1. **Download the `.ipynb` files** from this repository.  
